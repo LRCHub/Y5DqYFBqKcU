@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君のパレード",
+  "base_artist": "the shes gone",
+  "createdAt": "2026-03-10T15:39:19.604877Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のパレード",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/pl_01_君のパレード_the_shes_gone.txt"
+    }
+  ]
+}
